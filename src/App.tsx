@@ -1,11 +1,4 @@
 const App = () => {
-  return <div className="App">
-    
-    
-    
-    
-    App1111</div>
+  return <div className="App">App</div>
 }
-sdd
-
 export default App
